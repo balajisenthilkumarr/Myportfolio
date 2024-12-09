@@ -11,7 +11,7 @@ import Education from './Components/Education';
 import ProjectSection from './Components/ProjectSection';
 import ContactForm from './Components/ContactForm';
 import Footer from './Components/Footer';
-import DisableRightClick from './Components/DisableRightClick.JSX';
+import DisableRightClick from './Components/DisableRightClick';
 
 function App() {
   const [count, setCount] = useState(0)
