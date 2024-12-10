@@ -2,6 +2,7 @@ import React from 'react';
 import ProjectCard from './Projectscard'; // Ensure the path is correct
 import image1 from "../assets/project1.png";
 import { Element } from 'react-scroll';
+import portfolio from '../assets/Porfolioimg.png'
 
 const projects = [
   {
@@ -21,9 +22,9 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A personal portfolio to showcase my work and skills.",
-    image: "https://via.placeholder.com/150",
-    demoLink: "https://demo-link.com",
-    codeLink: "https://github.com/balajisenthilkumarr/Portfolio",
+    image: portfolio,
+    demoLink: "https://balajisenthilkumar.vercel.app/",
+    codeLink: "https://github.com/balajisenthilkumarr/Myportfolio",
   },
 ];
 

@@ -16,7 +16,7 @@ function Banner() {
             </h1>
             <div>
               <h1 className="text-5xl font-bold mb-9 mt-3">
-                I am into Fulstackdevelpoment
+                I am into MernStackDevelpoment
               </h1>
             </div>
             <div>
