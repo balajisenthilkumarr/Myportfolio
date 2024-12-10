@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <DisableRightClick />
+   
     <div>
      <Navbar/>
      </div>
