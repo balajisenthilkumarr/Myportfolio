@@ -1,8 +1,29 @@
-# React + Vite
+🌟 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio repository! 🎉
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project showcases my personal portfolio, built to demonstrate my skills, projects, and achievements.
+
+
+🛠️ Tech Stack
+Frontend: React.js, TailwindCSS
+Design Tools: Figma, Adobe XD
+
+🚀 Features
+Responsive design for all devices
+Interactive user interface
+Smooth navigation and animation effects
+
+📂 Project Structure
+src/: Contains all the source code files
+public/: Static assets such as images and icons
+README.md: Documentation of the project
+
+
+📬 Contact
+Feel free to reach out to me:
+
+📧 Email: balajisenthilkumar151@gmail.com
+
+🌐 Portfolio: balajisenthilkumar.vercel.app
